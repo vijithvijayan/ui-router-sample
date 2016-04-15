@@ -1,0 +1,10 @@
+{
+  "name"         : "node-ui-router",
+  "version"      : "0.0.0",
+  "description"  : "Simple uit-router application.",
+  "main"         : "server.js",
+  "author"       : "Vijith",
+  "dependencies" : {    
+    "express"        : "^4.13.4"   
+  }
+}
